@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/features/order.dart';
-import 'package:flutter_project/features/order_card.dart';
-import 'package:flutter_project/features/repository/order_repository.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/features/order.dart';
+import '/features/order_card.dart';
+import '/features/repository/order_repository.dart';
+import '/utils/app_textstyles.dart';
 import 'package:get/get.dart';
-
 class MyorderScreen extends StatelessWidget {
   final OrderRepository _repository = OrderRepository();
   MyorderScreen({super.key});
