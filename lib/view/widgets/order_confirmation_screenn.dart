@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/view/widgets/main_screen.dart';
+import '/view/widgets/main_screen.dart';
 import 'package:get/get.dart';
 
 class OrderConfirmationScreen extends StatelessWidget {
