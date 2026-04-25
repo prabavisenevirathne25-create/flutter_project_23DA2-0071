@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_project/controllers/theme_controller.dart';
-import 'package:flutter_project/view/all_products_screen.dart';
-import 'package:flutter_project/view/cart_screen.dart';
-import 'package:flutter_project/view/widgets/category_chips.dart';
-import 'package:flutter_project/view/widgets/custom_search_bar.dart';
-import 'package:flutter_project/view/widgets/product_grid.dart';
-import 'package:flutter_project/view/widgets/sale_banner.dart';
+import '/controllers/theme_controller.dart';
+import '/view/all_products_screen.dart';
+import '/view/cart_screen.dart';
+import '/view/widgets/category_chips.dart';
+import '/view/widgets/custom_search_bar.dart';
+import '/view/widgets/product_grid.dart';
+import '/view/widgets/sale_banner.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 import 'package:get/state_manager.dart';
 
