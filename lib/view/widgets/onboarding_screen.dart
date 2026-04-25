@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart'; // Ensure you have 'get' in your pubspec.yaml
-import 'package:flutter_project/controllers/auth_controller.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/sign_screen.dart';
+import '/controllers/auth_controller.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/sign_screen.dart';
+
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
