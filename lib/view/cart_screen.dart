@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/models/cart_product.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/checkout_screen.dart';
+import '/models/cart_product.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/checkout_screen.dart';
 import 'package:get/get.dart';
 
 
