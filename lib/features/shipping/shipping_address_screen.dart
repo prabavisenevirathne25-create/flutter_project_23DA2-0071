@@ -1,10 +1,9 @@
-import 'package:flutter_project/features/shipping/address_card.dart';
-import 'package:flutter_project/features/shipping/repository/address_repository.dart';
-import 'package:flutter_project/features/shipping/shipping.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/features/shipping/address_card.dart';
+import '/features/shipping/repository/address_repository.dart';
+import '/features/shipping/shipping.dart';
+import '/utils/app_textstyles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 class ShippingAddressScreen extends StatelessWidget {
   final AddressRepository _repository = AddressRepository();
   ShippingAddressScreen({super.key});
