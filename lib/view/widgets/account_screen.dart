@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/auth_controller.dart';
-import 'package:flutter_project/features/Edit_profile/edit_profile_screen.dart';
-import 'package:flutter_project/features/shipping/shipping_address_screen.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/features/myorder_screen.dart';
-import 'package:flutter_project/view/setting_screen.dart';
-import 'package:flutter_project/view/widgets/sign_screen.dart';
+import '/controllers/auth_controller.dart';
+import '/features/Edit_profile/edit_profile_screen.dart';
+import '/features/shipping/shipping_address_screen.dart';
+import '/utils/app_textstyles.dart';
+import '/features/myorder_screen.dart';
+import '/view/setting_screen.dart';
+import '/view/widgets/sign_screen.dart';
 import 'package:get/get.dart';
 
 class AccountScreen extends StatelessWidget {
