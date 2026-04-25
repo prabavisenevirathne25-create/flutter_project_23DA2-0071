@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/utils/app_textstyles.dart';
 
 class CategoryChips extends StatefulWidget {
   const CategoryChips({super.key});
