@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/theme_controller.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/controllers/theme_controller.dart';
+import '/utils/app_textstyles.dart';
 import 'package:get/get.dart';
+
 
 class SettingScreen extends StatelessWidget {
   const SettingScreen({super.key});
