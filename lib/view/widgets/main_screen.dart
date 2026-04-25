@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/navigation_controller.dart';
-import 'package:flutter_project/controllers/theme_controller.dart';
-import 'package:flutter_project/view/widgets/account_screen.dart';
-import 'package:flutter_project/view/widgets/custom_bottom_nav.dart';
-import 'package:flutter_project/view/widgets/home_screen.dart';
-import 'package:flutter_project/view/widgets/shopping_screen.dart';
-import 'package:flutter_project/view/widgets/wishlist_screen.dart';
+import '/controllers/navigation_controller.dart';
+import '/controllers/theme_controller.dart';
+import '/view/widgets/account_screen.dart';
+import '/view/widgets/custom_bottom_nav.dart';
+import '/view/widgets/home_screen.dart';
+import '/view/widgets/shopping_screen.dart';
+import '/view/widgets/wishlist_screen.dart';
 import 'package:get/get.dart';
 
 class MainScreen extends StatelessWidget {
