@@ -1,4 +1,4 @@
-import 'package:flutter_project/features/order.dart';
+import '/features/order.dart';
 
 class OrderRepository {
   List<Order> getOrders() {
