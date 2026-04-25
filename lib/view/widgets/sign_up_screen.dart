@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/view/widgets/custom_textfield.dart';
-import 'package:flutter_project/view/widgets/main_screen.dart';
-import 'package:flutter_project/view/widgets/sign_screen.dart';
+import '/view/widgets/custom_textfield.dart';
+import '/view/widgets/main_screen.dart';
+import '/view/widgets/sign_screen.dart';
 import 'package:get/get.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/utils/app_textstyles.dart';
 
 class SignUpScreen extends StatelessWidget {
  SignUpScreen({super.key});
