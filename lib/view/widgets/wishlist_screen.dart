@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/models/product.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/models/product.dart';
+import '/utils/app_textstyles.dart';
 
 class WishlistScreen extends StatelessWidget {
   const WishlistScreen({super.key});
