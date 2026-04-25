@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/models/product.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/size_selector.dart';
+import '/models/product.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/size_selector.dart';
 import 'package:share_plus/share_plus.dart';
 
 class ProductDetailsScreen extends StatelessWidget {
