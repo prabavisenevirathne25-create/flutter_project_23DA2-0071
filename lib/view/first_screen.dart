@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_project/view/widgets/main_screen.dart';
-import 'package:flutter_project/view/widgets/onboarding_screen.dart';
-import 'package:flutter_project/view/widgets/sign_screen.dart';
+import '/view/widgets/main_screen.dart';
+import '/view/widgets/onboarding_screen.dart';
+import '/view/widgets/sign_screen.dart';
 import '../controllers/auth_controller.dart';
 import 'package:get/get.dart';
 
