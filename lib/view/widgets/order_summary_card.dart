@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/utils/app_textstyles.dart';
+
 
 class OrderSummaryCard extends StatelessWidget {
   const OrderSummaryCard({super.key});
