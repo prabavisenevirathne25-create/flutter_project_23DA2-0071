@@ -1,6 +1,6 @@
-import 'package:flutter_project/features/order.dart';
+import '/features/order.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/utils/app_textstyles.dart';
 import 'package:get/get_utils/src/extensions/string_extensions.dart';
 
 class OrderCard extends StatelessWidget {
