@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/features/shipping/shipping.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/features/shipping/shipping.dart';
+import '/utils/app_textstyles.dart';
+
 
 class AddressCard extends StatelessWidget {
   final Address address;
