@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/address_card.dart';
-import 'package:flutter_project/view/widgets/checkout_button_nav.dart';
-import 'package:flutter_project/view/widgets/order_confirmation_screenn.dart';
-import 'package:flutter_project/view/widgets/order_summary_card.dart';
-import 'package:flutter_project/view/widgets/payment_method_card.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/address_card.dart';
+import '/view/widgets/checkout_button_nav.dart';
+import '/view/widgets/order_confirmation_screenn.dart';
+import '/view/widgets/order_summary_card.dart';
+import '/view/widgets/payment_method_card.dart';
 import 'package:get/get.dart';
 
 class CheckoutScreen extends StatelessWidget {
