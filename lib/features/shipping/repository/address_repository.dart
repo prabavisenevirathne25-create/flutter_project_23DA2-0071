@@ -1,4 +1,4 @@
-import 'package:flutter_project/features/shipping/shipping.dart';
+import '/features/shipping/shipping.dart';
 
 class AddressRepository {
   List<Address> getAddresses() {
