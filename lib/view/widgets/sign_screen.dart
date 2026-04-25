@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/auth_controller.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/custom_textfield.dart';
-import 'package:flutter_project/view/forgot_password_screen.dart';
-import 'package:flutter_project/view/widgets/main_screen.dart';
-import 'package:flutter_project/view/widgets/sign_up_screen.dart';
+import '/controllers/auth_controller.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/custom_textfield.dart';
+import '/view/forgot_password_screen.dart';
+import '/view/widgets/main_screen.dart';
+import '/view/widgets/sign_up_screen.dart';
 import 'package:get/get.dart';
 
 class SignInScreen extends StatelessWidget {
