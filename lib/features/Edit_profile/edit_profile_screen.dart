@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/features/Edit_profile/profile_form.dart';
-import 'package:flutter_project/features/Edit_profile/profile_image.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/features/Edit_profile/profile_form.dart';
+import '/features/Edit_profile/profile_image.dart';
+import '/utils/app_textstyles.dart';
 import 'package:get/get.dart';
 
 class EditProfileScreen extends StatelessWidget {
