@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
-import 'package:flutter_project/view/widgets/filter_bottom_sheet.dart';
-import 'package:flutter_project/view/widgets/product_grid.dart';
+import '/utils/app_textstyles.dart';
+import '/view/widgets/filter_bottom_sheet.dart';
+import '/view/widgets/product_grid.dart';
 import 'package:get/get.dart';
 
 class AllProductsScreen extends StatelessWidget {
