@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/navigation_controller.dart';
+import '/controllers/navigation_controller.dart';
 import 'package:get/get.dart';
-
 class CustomBottomNav extends StatelessWidget {
   const CustomBottomNav({super.key});
 
