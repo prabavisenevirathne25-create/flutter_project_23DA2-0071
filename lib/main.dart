@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/controllers/auth_controller.dart';
-import 'package:flutter_project/controllers/navigation_controller.dart';
-import '../view/first_screen.dart';
-import 'package:flutter_project/utils/app_themestyles.dart';
+import 'controllers/auth_controller.dart';
+import 'controllers/navigation_controller.dart';
+import 'view/first_screen.dart';
+import 'utils/app_themestyles.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:get/get.dart';
-import 'package:flutter_project/controllers/theme_controller.dart';
+import 'controllers/theme_controller.dart';
+
 
 void main() async {
   await GetStorage.init();
