@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/utils/app_textstyles.dart';
+import '/utils/app_textstyles.dart';
 
 class AddressCard extends StatelessWidget {
   const AddressCard({super.key});
